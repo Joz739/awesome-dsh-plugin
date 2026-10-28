@@ -1,0 +1,6 @@
+url: https://github.com/Joz739/dsh-workflow-map
+name: Joz739/dsh-workflow-map
+category: workflow
+description:
+  en: 'Step-by-step workflow map for DeepSeek Harness: folds session events into a step list with per-step status, a percentage whose source (todo table, self-report, time baseline or plan ordinal) is labelled, tool and file-type interfaces either side of each unit, a detail page, and hot injection that queues a prompt for the next step with revoke before it is claimed.'
+  zh: 'DeepSeek Harness 鍒嗘宸ヤ綔娴佸湴鍥撅細灏嗕細璇濅簨浠舵姌鍙犱负鍒嗘鍒楄〃锛屾爣娉ㄦ瘡姝ョ姸鎬佷笌鐧惧垎姣旀潵婧愶紙寰呭姙琛?鑷姤/鏃堕棿鍩虹嚎/璁″垝姝ュ簭锛夛紝姣忔涓や晶鎸傚伐鍏蜂笌鏂囦欢绫诲瀷鎺ュ彛骞跺彲鎵撳紑璇︽儏椤碉紱鐑敞鍏ユ妸鎻愮ず璇嶆帓鍏ヤ笅涓€姝ユ墽琛岄槦鍒楋紝琚彇鐢ㄥ墠鍙挙鍥炪€?
